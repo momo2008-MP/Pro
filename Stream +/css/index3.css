@@ -1,0 +1,47 @@
+*{
+     margin:0px;  
+}
+
+body{
+    background-color: rgb(34, 34, 34);
+ 
+    color:white
+    
+    
+}
+
+
+.filho{
+  
+    background-color: #0f171e;
+    height: 72px;
+   
+    
+
+}
+
+.filho2{
+
+    background-color: #00eb3bd0;
+    height: 100px;
+   
+    
+
+}
+
+.filho3{
+
+    background-color: #1e0f14d0;
+    height: 90px;
+   
+    
+
+}
+.filho4{
+    background-color: #af2222d0;
+    height: 90px;
+    
+   
+    
+
+}
